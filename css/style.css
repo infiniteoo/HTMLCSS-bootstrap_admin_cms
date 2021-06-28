@@ -70,10 +70,23 @@ body {
   color: #ffbbbc;
 }
 
+/* custom */
 .main-color-bg {
   background-color: #e74c3c !important;
   border-color: #c0392b !important;
   color: #ffffff;
+}
+
+/* header */
+#header {
+  background: #333333;
+  color: #fff;
+  padding-bottom: 10px;
+  margin-bottom: 15px;
+}
+
+#header .create {
+  padding-top: 20px;
 }
 
 /* media queries */
